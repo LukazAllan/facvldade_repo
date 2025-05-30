@@ -1,0 +1,99 @@
+LISTA DE EXERCÍCIO – 07
+Entendendo as atribuições do SEO (Search Engine Optimization)
+ou (Otimização em Moto de Busca).
+
+Aluno: Allan Lucas de Assis Ribeiro
+Mat.: 2025111890030
+
+*As respostas são indicadas pelas setas*
+
+QUESTÕES:
+1. Qual é o objetivo principal das metatags no contexto do SEO?
+	a) Para aprimorar o design visual de uma página da web
+---->	b) Fornecer indicadores descritivos para os mecanismos de pesquisa
+	c) Para aumentar a velocidade de carregamento de uma página da web
+	d) Para criar hiperlinks para outras páginas
+
+2. Como a seleção de palavras-chave afeta a eficácia dos resultados da pesquisa?
+	a) Não tem impacto nos resultados da pesquisa
+	b) Ele determina o layout visual da página da web
+---->	c) Influencia a relevância e a precisão dos resultados da pesquisa
+	d) Isso afeta apenas o tempo de carregamento da página da web
+
+3. Qual é a relação entre técnicas de SEO e elementos de indexação?
+	a) Eles não estão completamente relacionados
+	b) As técnicas de SEO são um subconjunto de elementos de indexação
+---->	c) Eles estão integrados e influenciam uns aos outros
+	d) Os elementos de indexação estão desatualizados e não são usados em SEO
+
+4. Qual é a função principal da indexação de assuntos na recuperação de informações?
+	a) Para melhorar o apelo estético dos documentos
+---->	b) Representar o conteúdo dos recursos de informação para recuperação
+	c) Aumentar o número de documentos disponíveis on-line
+	d) Criar conteúdo multimídia para documentos
+
+5. Qual das opções a seguir NÃO é uma etapa no processo de indexação de assuntos?
+	a) Análise
+	b) Síntese
+---->	c) Visualização
+	d) Representação
+
+6. Como o conceito de indexação de assuntos se relaciona com o campo da Biblioteconomia e da Ciência da Informação?
+	a) É irrelevante para esses campos
+---->	b) É um componente central focado na recuperação de informações
+	c) Refere-se apenas ao marketing digital
+	d) Preocupa-se principalmente com o design de documentos
+
+7. Qual é o elemento-chave que os mecanismos de pesquisa analisam durante o processo de indexação?
+	a) Preferências do usuário
+---->	b) Estrutura do conteúdo e palavras-chave
+	c) Design visual do site
+	d) Presença nas redes sociais
+
+8. Qual é a importância do HTML no contexto da indexação da web?
+	a) É usado apenas para fins estéticos
+---->	b) Ajuda os mecanismos de pesquisa a entender e indexar páginas da web com mais eficiência
+	c) Não tem impacto na classificação dos mecanismos de pesquisa
+	d) É relevante apenas para documentos off-line
+
+9. Qual das seguintes opções é a principal meta da Otimização de Mecanismos de Busca (SEO)?
+	a) Para aumentar a velocidade de carregamento do site
+---->	b) Para melhorar a visibilidade de um site nos resultados dos mecanismos de pesquisa
+	c) Para melhorar o design estético de um site
+	d) Reduzir o número de anúncios em um site
+
+10. Qual é a importância da seleção de palavras-chave em SEO?
+	a) Não tem impacto nas classificações dos mecanismos de pesquisa
+---->	b) Ajuda na criação de conteúdo relevante que atrai usuários
+	c) É importante apenas para o marketing de mídia social
+	d) É usado exclusivamente para design de sites
+
+11. Como as técnicas de SEO na página contribuem para o desempenho de um site?
+	a) Eles são irrelevantes para os algoritmos dos mecanismos de pesquisa
+---->	b) Eles otimizam páginas individuais para melhorar as classificações e a experiência do usuário
+	c) Eles se concentram apenas em links externos
+	d) Eles são aplicáveis apenas a sites de comércio eletrônico
+
+12. Qual o papel dos backlinks no SEO?
+	a) Eles não têm efeito nos rankings de busca
+---->	b) Eles ajudam a melhorar a autoridade e a classificação de um site
+	c) Eles são relevantes apenas para plataformas de mídia social
+	d) Eles são usados para aumentar a velocidade de carregamento do site
+
+13. Como as técnicas de SEO podem ser utilizadas para gerenciamento de reputação?
+	a) Ao ignorar avaliações negativas
+---->	b) Promovendo conteúdo positivo para ofuscar avaliações negativas
+	c) Reduzindo o tráfego do site
+	d) Concentrando-se exclusivamente no marketing de mídia social
+
+14. Qual é a importância da otimização móvel em SEO?
+	a) Não é importante, pois a maioria dos usuários usa desktops
+---->	b) Ajuda a melhorar a experiência do usuário e as classificações de pesquisa em dispositivos móveis
+	c) Isso afeta apenas o engajamento nas redes sociais
+	d) É relevante apenas para sites de comércio eletrônico
+
+15. Como as técnicas de SEO se relacionam com a criação de conteúdo?
+	a) As técnicas de SEO não estão relacionadas ao conteúdo
+---->	b) As técnicas de SEO orientam a criação de conteúdo relevante e otimizado
+	c) A criação de conteúdo é apenas uma questão de estética
+	d) As técnicas de SEO são aplicáveis apenas aos aspectos técnicos de um site

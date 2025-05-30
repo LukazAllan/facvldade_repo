@@ -1,0 +1,48 @@
+LISTA DE EXERCÍCIO
+
+Metodologia Ágil
+
+1. O Manifesto Ágil foi publicado em que ano?
+Resposta: Em meados do ano 2000
+
+2. Quais são os quatro valores do Manifesto Ágil?
+Resposta:
+    - Indivíduos e interações acima de processos e ferramentas
+    - Software funcionando é melhor que documentação abrangente
+    - Colaboração com o cliente acima de negociação de contratos
+    - Responder a mudanças ao invés de seguir um plano
+
+3. O Scrum é uma metodologia ágil que se baseia em quantos papéis principais?
+Resposta:
+    - Scrum Master (Mestre do Processo)
+    - Product Owner (Dono do Produto)
+    - Developers (Time da Execução)
+
+4. Quais são os eventos principais do Scrum?
+Resposta: 
+    - Planejamento da Sprint
+    - Execução da Sprint
+    - Reunião Diária
+    - Revisão da Sprint
+    - Retrospectiva da Sprint
+
+5. Kanban é uma metodologia ágil originária de qual indústria?
+Resposta: O Kanban é originário da indústria automobilística japonesa.
+
+6. Qual é o objetivo principal do Lean Software Development?
+Resposta: Eliminar desperdícios, reduzir o tempo de ciclo e maximizar o valor entregue ao cliente.
+
+7. O Extreme Programming (XP) é uma metodologia ágil que enfatiza quais práticas?
+Resposta: Enfatiza práticas como programação em pares, desenvolvimento orientado a testes, integração contínua e design simples.
+
+8. Qual é a duração típica de um Sprint no Scrum?
+Resposta: 2 a 4 semanas
+
+9. Quais são os três pilares do Agile?
+Resposta: Transparência, Inspeção e Adaptação
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Comentário: Não encontrei "três pilares do Agile", nem em mecanismos de busca, nem nos slides, mas, encontrei três pilares do Scrum pesquisando no DuckDuckGo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+10. Qual é o objetivo principal do backlog do produto no Scrum?
+Resposta:  O Backlog do produto Scrum é uma lista de requisitos, acordado com o cliente, para orientar as tarefas da equipe de desenvolvimento.

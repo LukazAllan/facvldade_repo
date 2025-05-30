@@ -1,0 +1,117 @@
+UNIESP
+Allan Lucas de Assis Ribeiro
+
+1.Você encontra-se na pasta “Documents”, quais os comandos necessários para criar a seguinte estrutura de
+pastas:
+📂Disciplina_20251
+|	📂Lógica_Matemática
+|	|	📂Exercíicio
+|	|	📂Leitura
+|	|	📂Material_Professor
+|	📂Projeto
+|	|	📂Curto_Prazo
+|	|	📂Longo_Prazo
++	+
+
+Respposta:
+md Disciplina_20251
+
+md Disciplina_20251\Logica_Matematica
+
+md Disciplina_20251\Projeto
+
+md Disciplina_20251\Logica_Matematica\Exercicios
+
+md Disciplina_20251\Logica_Matematica\Leitura
+
+md Disciplina_20251\Logica_Matematica\Material_Professor
+
+md Disciplina_20251\Projeto\Curto_Prazo
+
+md Disciplina_20251\Projeto\Curto_Prazo
+Já existe uma subpasta ou um arquivo Disciplina_20251\Projeto\Curto_Prazo.
+
+md Disciplina_20251\Projeto\Longo_Prazo
+
+2. Qual é o seu prompt de comando agora?
+C:\Users\allan\Documents>
+
+3. Qual o comando para limpar a tela?
+cls
+
+4. Qual o comando para exibir todas as pastas que foram criadas a partir da pasta “Disciplina _20251”?
+tree Disciplina_20251
+
+5. Qual o comando para exibir todas as pastas e arquivos que foram criadas a partir da pasta “Disciplina
+_20251”?
+tree /f Disciplina_20251
+
+
+6. Qual o comando para exibir uma ajuda no Shell?
+help
+
+7. Qual o comando para exibir todos os 
+parâmetros do comando “DIR”?
+help dir
+
+8. Qual o comando para entrar na pasta “Disciplina_20251”?
+cd Disciplina_20251
+
+9. Qual o comando para entrar na pasta “Logica_Matematica”?
+cd Disciplina_20251\Logica_Matematica
+
+10. Qual(is) o(s) comando(s) para sair da pasta “Logica_Matematica” e voltar para pasta “Documents”
+# DE UMA VEZ
+cd ..\..
+
+# UM POR VEZ
+cd ..
+cd ..
+
+11. Qual o comando para excluir a pasta “Leitura”?
+rd Disciplina_20251\Logica_Matematica\Leitura
+
+12. Qual o comando para criar um arquivo na pasta “Curto_Prazo” de nome arquivo1.txt?
+copy nul Disciplina_20251\Projeto\Longo_Prazo\arquivo1.txt
+
+
+13. Qual o comando para criar um arquivo na pasta “Curto_Prazo” de nome arquivo2.txt?
+copy nul Disciplina_20251\Projeto\Curto_Prazo\arquivo2.txt
+
+
+14. Qual o comando para criar um arquivo na pasta “Longo_Prazo” de nome arquivo3.txt?
+copy nul Disciplina_20251\Projeto\Longo_Prazo\arquivo3.txt
+
+
+15. Qual o comando para criar um arquivo na pasta “Longo_Prazo” de nome arquivo4.txt?
+copy nul Disciplina_20251\Projeto\Longo_Prazo\arquivo4.txt
+
+16. Qual o comando para criar um arquivo na pasta “Longo_Prazo” de nome arquivo5.txt?
+copy nul Disciplina_20251\Projeto\Longo_Prazo\arquivo5.txt
+
+
+17. Qual o comando para criar um arquivo na pasta “Longo_Prazo” de nome “descricao.txt”, cujo conteúdo
+deve ser: Nome da Faculdade; Nome do seu Curso, Nome da Disciplina, Nome do Professor e seu nome
+Completo?
+
+>copy con Disciplina_20251\Projeto\Longo_Prazo\descricao.txt
+
+
+
+
+18. Qual o comando para ir para o raiz da unidade C:?
+
+
+19. Qual o comando para voltar para a pasta “Documents”?
+
+20. Qual o comando para exibir o conteúdo do arquivo “descricao.txt”?
+
+21. Qual o comando para excluir a pasta “Projeto” e todas as suas subpastas de maneira silenciosa?
+
+22. Qual o comando para excluir a pasta “Disciplina _20251” e todas as suas subpastas e arquivo de maneira
+silenciosa?
+
+23. Qual a função do comando CD \?
+
+24. Qual é a função da tecla F7?
+historico dos comandos
