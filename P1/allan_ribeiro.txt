@@ -1,0 +1,207 @@
+LISTA DE EXERCÍCIO
+
+Revisão 2a Verificação de Aprendizagem
+
+*Metodologia Ágil*
+
+1. Qual dos seguintes princípios é fundamental para as metodologias ágeis?
+-->		a) Priorizar processos e ferramentas.
+		b) Seguir rigorosamente um plano detalhado.
+		c) Valorizar indivíduos e interações.
+		d) Negociar contratos detalhados com os clientes.
+
+2. Qual é a unidade básica de trabalho em Scrum?
+		a) Tarefa.
+-->		b) Sprint.
+		c) História de usuário.
+		d) Épico.
+
+3. O que é um "Daily Standup" (reunião diária) no contexto do Scrum?
+		a) Uma reunião semanal para discutir o progresso do projeto.
+		b) Uma reunião diária onde a equipe permanece sentada durante uma hora.
+-->		c) Uma breve reunião diária onde a equipe discute o progresso, os obstáculos e os planos para o dia.
+		d) Uma reunião onde apenas os desenvolvedores participam para evitar interrupções.
+
+4. Qual é o objetivo do "Planning Poker" em Scrum?
+		a) Estimar o tempo necessário para concluir cada tarefa.
+		b) Distribuir cartas de baralho para a equipe durante o planejamento do projeto.
+-->		c) Facilitar a estimativa do esforço necessário para concluir as histórias de usuário.
+		d) Selecionar as histórias de usuário mais importantes para a próxima iteração.
+
+5. O que é um "Product Owner" (Proprietário do Produto) em Scrum?
+		a) Um membro da equipe responsável por escrever o código-fonte do produto.
+		b) O líder da equipe Scrum, responsável por tomar todas as decisões de projeto.
+-->		c) O representante do cliente responsável por definir e priorizar os requisitos do produto.
+		d) Um gerente de projetos responsável por supervisionar todas as atividades da equipe.
+
+6. Qual é o objetivo da retrospectiva no Scrum?
+-->		a) Revisar o progresso do projeto até o momento.
+		b) Identificar melhorias para o próximo sprint.
+		c) Determinar quem é responsável por cada tarefa.
+		d) Avaliar se o projeto está dentro do orçamento.
+
+7. Qual é o princípio subjacente ao desenvolvimento iterativo e incremental?
+		a) Lançar o produto apenas quando todas as funcionalidades estiverem concluídas.
+		b) Priorizar a documentação extensiva sobre a entrega contínua de software funcional.
+-->		c) Entregar valor ao cliente em incrementos pequenos e frequentes.
+	d) Evitar mudanças nos requisitos após o início do desenvolvimento.
+
+8. Qual é a diferença entre "Scrum Master" e "Product Owner"?
+-->		a) O Scrum Master é responsável por priorizar o backlog do produto, enquanto o Product Owner lidera as
+reuniões diárias.
+		b) O Scrum Master é responsável por liderar a equipe de desenvolvimento, enquanto o Product Owner
+representa o cliente.
+		c) O Scrum Master facilita o processo Scrum e remove obstáculos, enquanto o Product Owner define os
+requisitos e prioridades do produto.
+		d) O Scrum Master é responsável por garantir que a equipe atenda aos prazos, enquanto o Product Owner
+gerencia o orçamento do projeto.
+
+9. Qual é o objetivo de um "Kanban Board"?
+		a) Atribuir tarefas a membros específicos da equipe.
+-->		b) Visualizar o progresso do projeto e limitar o trabalho em andamento.
+		c) Registrar todas as alterações de requisitos durante o desenvolvimento do software.
+		d) Classificar as histórias de usuário em ordem de prioridade para a próxima iteração.
+
+10. Qual é a principal vantagem das metodologias ágeis em comparação com as abordagens tradicionais de
+desenvolvimento de software?
+		a) Maior ênfase na documentação detalhada.
+-->		b) Menor flexibilidade para lidar com mudanças de requisitos.
+		c) Capacidade de entregar valor ao cliente de forma rápida e contínua.
+		d) Maior foco na previsibilidade e no cumprimento de prazos.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+*DevOps*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+1. O que significa DevOps?
+		a) Development Operations
+		b) Developer Options
+-->		c) Development and Operations
+		d) Deviation and Operations
+
+2. Qual é o principal objetivo do DevOps?
+		a) Automatizar apenas o processo de desenvolvimento de software
+		b) Automatizar apenas o processo de operações de TI
+-_>		c) Integrar o desenvolvimento de software e as operações de TI para aumentar a colaboração e a eficiência
+		d) Substituir completamente as equipes de desenvolvimento e operações
+
+3. Qual dos seguintes não é um dos princípios fundamentais do DevOps?
+		a) Automação
+		b) Colaboração
+		c) Monitoramento
+-->		d) Isolamento
+
+4. Qual ferramenta é frequentemente usada para automação de implantação em um ambiente DevOps?
+-->		a) Jenkins
+		b) Photoshop
+		c) Microsoft Excel
+		d) Adobe Illustrator
+
+5. Qual conceito do DevOps enfatiza a necessidade de se entregar frequentemente pequenas alterações de código?
+		a) Continuous Integration (Integração Contínua)
+		b) Continuous Deployment (Implantação Contínua)
+-->		c) Continuous Delivery (Entrega Contínua)
+		d) Continuous Monitoring (Monitoramento Contínuo)
+
+6. O que é uma "pipeline" em um contexto de DevOps?
+		a) Um tipo de contêiner usado para implantar aplicativos
+		b) Uma ferramenta de monitoramento de código-fonte
+-->		c) Uma série de etapas automatizadas que permitem a entrega contínua de software
+		d) Um tipo de servidor de banco de dados
+
+7. Qual é a principal vantagem do uso de contêineres em um ambiente DevOps?
+		a) Facilitar a comunicação entre equipes de desenvolvimento e operações
+		b) Garantir a segurança dos dados do cliente
+-->		c) Padronizar o ambiente de desenvolvimento e implantação
+		d) Aumentar a complexidade do processo de implantação
+
+8. O que é "Infrastructure as Code" (Infraestrutura como Código) no contexto do DevOps?
+		a) Escrever manuais detalhados para configurar servidores de produção
+		b) Tratar a infraestrutura de TI como se fosse código de software
+-->		c) Usar linguagens de programação para automatizar tarefas de desenvolvimento
+		d) Gerenciar a infraestrutura de TI manualmente
+
+9. Qual prática do DevOps enfatiza a importância de testes automatizados?
+		a) Continuous Deployment (Implantação Contínua)
+-->		b) Continuous Integration (Integração Contínua)
+		c) Continuous Delivery (Entrega Contínua)
+		d) Continuous Monitoring (Monitoramento Contínuo)
+
+10. Qual é o objetivo do "Feedback Loop" no DevOps?
+		a) Aumentar o número de reuniões entre equipes de desenvolvimento e operações
+-->		b) Identificar e corrigir problemas rapidamente por meio de feedback contínuo
+		c) Impedir que novas versões de software sejam implantadas em produção
+		d) Acelerar o processo de desenvolvimento sem se preocupar com qualidade
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+*SEO (Search Engine Optimization)*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+1. O que significa SEO?
+		a) Search Engine Option
+-->		b) Search Engine Optimization
+		c) Search Engine Offer
+		d) Search Engine Overload
+
+2. Qual é o objetivo principal do SEO?
+-->		a) Aumentar o tráfego orgânico e a visibilidade de um site nos resultados dos mecanismos de busca
+		b) Aumentar o número de anúncios pagos exibidos em um site
+		c) Melhorar a velocidade de carregamento de um site
+		d) Aumentar a segurança de um site
+
+3. Qual é a importância das palavras-chave no SEO?
+		a) As palavras-chave não são importantes no SEO
+		b) As palavras-chave são importantes apenas para anúncios pagos
+-->		c) As palavras-chave são usadas pelos mecanismos de busca para determinar a relevância de um site em relação a uma consulta
+		d) As palavras-chave são usadas apenas para preencher o conteúdo de um site
+
+4. O que é "link building" no contexto do SEO?
+		a) Criar links internos em um site para facilitar a navegação
+-->		b) Criar links externos de outros sites para aumentar a autoridade e a relevância do seu site
+		c) Remover todos os links de um site para melhorar o desempenho
+		d) Criar links para páginas de destino de anúncios pagos
+
+5. Qual é a importância do conteúdo de alta qualidade no SEO?
+		a) O conteúdo de alta qualidade não é importante para o SEO
+		b) O conteúdo de alta qualidade é importante apenas para sites de entretenimento
+-->		c) O conteúdo de alta qualidade ajuda a atrair visitantes e a melhorar o engajamento, o que pode aumentar o posicionamento nos
+resultados de pesquisa
+		d) O conteúdo de alta qualidade é importante apenas para sites que vendem produtos
+
+6. O que é "meta description" em SEO?
+-->		a) Uma descrição detalhada de todo o conteúdo de uma página da web
+		b) Uma descrição de metais usada para melhorar a segurança de um site
+		c) Uma descrição curta e informativa que aparece nos resultados de pesquisa para descrever o conteúdo de uma página da web
+		d) Uma descrição de métodos de construção de links
+
+7. O que é "SEO on-page"?
+		a) A otimização de elementos fora do seu site para melhorar o posicionamento nos mecanismos de busca
+-->		b) A otimização de elementos dentro do seu site, como conteúdo e HTML, para melhorar o posicionamento nos mecanismos de
+busca
+		c) A criação de anúncios pagos para promover o seu site
+		d) A criação de links para o seu site em outros sites
+
+8. Qual é a importância da otimização de velocidade de página para o SEO?
+		a) A velocidade da página não afeta o SEO
+		b) A otimização de velocidade de página é importante apenas para sites de comércio eletrônico
+-->		c) A velocidade da página afeta a experiência do usuário e pode influenciar o posicionamento nos mecanismos de busca
+		d) A otimização de velocidade de página é importante apenas para sites que não têm conteúdo visual
+
+9. O que é "Google Analytics"?
+		a) Uma ferramenta usada para criar anúncios pagos no Google
+-->		b) Uma ferramenta usada para monitorar o desempenho de um site, incluindo tráfego, origens de tráfego e comportamento do
+usuário
+		c) Uma ferramenta usada para criar sites
+		d) Uma ferramenta usada para otimizar a velocidade de uma página da web
+
+10. O que é "Black Hat SEO"?
+		a) Técnicas de SEO que seguem as diretrizes e práticas recomendadas pelos mecanismos de busca
+-->		b) Técnicas de SEO que visam enganar ou manipular os mecanismos de busca para obter uma classificação mais alta, violando
+suas diretrizes
+		c) Uma estratégia de SEO usada exclusivamente por empresas de grande porte
+		d) Uma estratégia de SEO que envolve apenas a criação de conteúdo de alta qualidade
+
