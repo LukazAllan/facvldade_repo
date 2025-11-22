@@ -1,0 +1,69 @@
+Nesta empresa,
+1 Departamento pode ter N Gerentes,
+1 Gerente supervisiona N Empregados,
+1 Projeto tem
+	1 unico Departamento, e 1 Departamento faz N Projetos
+	1 unico Gerente, e 1 Gerente supervisiona N Projetos
+	N funcionarios, e 1 funcionário trabalham em N projetos 
+
+
+
+@ÑN
+	Prjeto(Cod_proj, Nome_proj, Data_Inicio, Data_Fim, 
+		Cod_Dep, Departamento,
+		Cod_Gerente, Gerente
+	Empregados(Cod, Nome, Horas)
+	)
+
+@1FN
+	Projeto(Cod_proj, Nome_proj, Data_Inicio, Data_Fim, 
+		Cod_Dep, Departamento,
+		Cod_Gerente, Gerente
+	)
+	Empregados(Cod, Nome, Horas)
+
+@2FN
+	-- Entidades
+	Projeto(Cod_Proj, Nome_Proj, Data_Inicio, Data_Fim)
+	Departamento(Cod_Dep, Departamento)
+	Gerente(Cod_Gerente, Gerente)	
+	Empregados(Cod_Emp, Nomes)
+
+@3FN
+	-- Entidades
+	Projeto(Cod_Proj, Nome_Proj, Data_Inicio, Data_Fim)
+	Departamento(cod, Departamento)
+	Gerente(cod, Gerente)	
+	Empregado(cod, Nome)
+
+	-- Relacionamento
+	Projeto_Gerente_Empregados
+	PGE(Cod_Proj, Cod_Gerente, Cod_Emp)
+	Empregado_projeto(Cod_Emp, Cod_proj, Horas)
+	Gerente_Departamento(Cod_Gerente, Cod_Dep)	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Entidades
+		Projeto(Cod_proj, Nome_proj, Data_Inicio, Data_Fim)
+		Departamento(Cod_Dep, Departamento)
+		Gerente(Cod_Gerente, Gerente)
+		Empregado(Cod, Nome, Horas)
+
+#Relacionamentos 
+
+
+
+Projeto
